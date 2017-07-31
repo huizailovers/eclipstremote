@@ -5,6 +5,7 @@ public class demo2 {
 		System.err.println("demo测试");
 		System.err.println("推送到maste分支上");
 		
+		System.err.println("dev 分支第二次提交");
 	}
 
 }
