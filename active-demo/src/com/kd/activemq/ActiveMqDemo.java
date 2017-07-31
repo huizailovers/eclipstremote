@@ -36,6 +36,7 @@ public class ActiveMqDemo {
 			connection.close();
 		}
 		System.out.println("消息发送成功......");
+		System.out.println("tijiao dao");
 	}
 	/*public static void main(String[] args) throws Exception {
 		//获取到connectionfacroty
